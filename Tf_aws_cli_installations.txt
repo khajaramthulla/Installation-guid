@@ -1,4 +1,4 @@
-1)Add Terrafrom APT Repository
+1) Add Terrafrom APT Repository
 Terraform package is not available in default package repositories of Ubuntu 22.04. So, for its installation, we must add hashicorp apt repository.
 
 First download the repository GPG key and then add hashicorp apt repository. Run below set of commands.
